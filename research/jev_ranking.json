@@ -1,0 +1,212 @@
+[
+ {
+  "name": "Search intent classification",
+  "composite": 0.778,
+  "fit": 2.98,
+  "impact": 2.07,
+  "volume": 2.74,
+  "evidence": 1.3,
+  "conf": {
+   "fit": 0.98,
+   "impact": 0.61,
+   "volume": 0.74,
+   "evidence": 0.62
+  },
+  "risky": 0.36
+ },
+ {
+  "name": "Internal link selection",
+  "composite": 0.757,
+  "fit": 2.05,
+  "impact": 1.73,
+  "volume": 2.92,
+  "evidence": 2.98,
+  "conf": {
+   "fit": 0.05,
+   "impact": 0.54,
+   "volume": 0.92,
+   "evidence": 0.98
+  },
+  "risky": 0.4
+ },
+ {
+  "name": "Keyword cannibalization detection",
+  "composite": 0.754,
+  "fit": 1.91,
+  "impact": 2.33,
+  "volume": 2.01,
+  "evidence": 2.97,
+  "conf": {
+   "fit": 0.36,
+   "impact": 0.61,
+   "volume": 0.57,
+   "evidence": 0.97
+  },
+  "risky": 0.43
+ },
+ {
+  "name": "Content brief compliance QA",
+  "composite": 0.751,
+  "fit": 2.7,
+  "impact": 2.0,
+  "volume": 1.93,
+  "evidence": 2.1,
+  "conf": {
+   "fit": 0.7,
+   "impact": 0.57,
+   "volume": 0.8,
+   "evidence": 0.85
+  },
+  "risky": 0.36
+ },
+ {
+  "name": "AI answer brand mention tracking",
+  "composite": 0.735,
+  "fit": 2.92,
+  "impact": 1.31,
+  "volume": 2.51,
+  "evidence": 2.07,
+  "conf": {
+   "fit": 0.92,
+   "impact": 0.0,
+   "volume": 0.51,
+   "evidence": 0.4
+  },
+  "risky": 0.23
+ },
+ {
+  "name": "Technical SEO issue prioritization",
+  "composite": 0.661,
+  "fit": 0.77,
+  "impact": 2.83,
+  "volume": 2.59,
+  "evidence": 2.38,
+  "conf": {
+   "fit": 0.23,
+   "impact": 0.83,
+   "volume": 0.59,
+   "evidence": 0.38
+  },
+  "risky": 0.5
+ },
+ {
+  "name": "Blog topic overlap detection",
+  "composite": 0.661,
+  "fit": 2.98,
+  "impact": 1.56,
+  "volume": 1.83,
+  "evidence": 0.99,
+  "conf": {
+   "fit": 0.98,
+   "impact": 0.38,
+   "volume": 0.68,
+   "evidence": 0.99
+  },
+  "risky": 0.26
+ },
+ {
+  "name": "Backlink prospect qualification",
+  "composite": 0.646,
+  "fit": 2.96,
+  "impact": 1.28,
+  "volume": 2.15,
+  "evidence": 0.98,
+  "conf": {
+   "fit": 0.96,
+   "impact": 0.0,
+   "volume": 0.76,
+   "evidence": 0.96
+  },
+  "risky": 0.27
+ },
+ {
+  "name": "SERP passage reranking for content research",
+  "composite": 0.616,
+  "fit": 1.93,
+  "impact": 1.54,
+  "volume": 2.03,
+  "evidence": 2.03,
+  "conf": {
+   "fit": 0.41,
+   "impact": 0.36,
+   "volume": 0.65,
+   "evidence": 0.96
+  },
+  "risky": 0.2
+ },
+ {
+  "name": "Meta description relevance audit",
+  "composite": 0.602,
+  "fit": 2.59,
+  "impact": 1.32,
+  "volume": 2.09,
+  "evidence": 0.95,
+  "conf": {
+   "fit": 0.59,
+   "impact": 0.6,
+   "volume": 0.61,
+   "evidence": 0.93
+  },
+  "risky": 0.28
+ },
+ {
+  "name": "Thin page filtering before publishing",
+  "composite": 0.595,
+  "fit": 2.62,
+  "impact": 2.14,
+  "volume": 2.18,
+  "evidence": 1.0,
+  "conf": {
+   "fit": 0.62,
+   "impact": 0.51,
+   "volume": 0.53,
+   "evidence": 1.0
+  },
+  "risky": 0.54
+ },
+ {
+  "name": "AI citation accuracy checking",
+  "composite": 0.574,
+  "fit": 2.95,
+  "impact": 1.25,
+  "volume": 0.91,
+  "evidence": 0.89,
+  "conf": {
+   "fit": 0.95,
+   "impact": 0.34,
+   "volume": 0.09,
+   "evidence": 0.58
+  },
+  "risky": 0.28
+ },
+ {
+  "name": "Redirect mapping for migrations",
+  "composite": 0.514,
+  "fit": 2.51,
+  "impact": 1.8,
+  "volume": 1.5,
+  "evidence": 1.0,
+  "conf": {
+   "fit": 0.51,
+   "impact": 0.51,
+   "volume": 0.33,
+   "evidence": 1.0
+  },
+  "risky": 0.9
+ },
+ {
+  "name": "Writing SEO articles",
+  "composite": 0.364,
+  "fit": 0.04,
+  "impact": 2.51,
+  "volume": 2.16,
+  "evidence": 0.0,
+  "conf": {
+   "fit": 0.96,
+   "impact": 0.51,
+   "volume": 0.77,
+   "evidence": 1.0
+  },
+  "risky": 0.49
+ }
+]
